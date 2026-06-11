@@ -14,6 +14,9 @@ export const metadata: Metadata = {
   title: 'Md Taqi Tahmid - Full Stack Developer',
   description: 'Professional portfolio of Md Taqi Tahmid, a full-stack web developer specializing in React, Vue.js, Node.js, and Firebase.',
   generator: 'v0.app',
+  verification: {
+    google: 'HD4FCnd5mIgNlvvQ-0EbhpKO13Y09M6YTeNcK0aOlQs',
+  },
   icons: {
     icon: '/logo.png',
     apple: '/logo.png',
